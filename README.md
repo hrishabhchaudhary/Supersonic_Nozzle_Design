@@ -9,4 +9,4 @@ The graph shows x-y contour of nozzle.In z-direction width is taken (i.e. in x-z
 While using this in any CAD software just extrude the profile equal to the width for which nozzle was designed.
 
 By: Hrishabh Chaudhary
-(hrishabh.mit@outlook.com)
+(hrishabhchaudhary@gmail.com)
